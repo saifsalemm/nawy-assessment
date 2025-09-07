@@ -64,15 +64,15 @@ nawy-assessment/
 ### Running the Application
 
 1. Clone the repo:
-\`\`\`bash
+```
 git clone https://github.com/saifsalemm/nawy-assessment.git saif-salem-assessment
-\`\`\`
+```
 
 2. Run the docker compose command:
-\`\`\`bash
+```
 cd saif-salem-assessment
 docker compose -f project-docker.yaml up -d
-\`\`\`
+```
 
 3. Open http://localhost:3000 in your browser
 
